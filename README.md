@@ -18,7 +18,7 @@ https://secret-badlands-74865.herokuapp.com/
 
 *Steps required to install this project and get the application running:*
 Clone repo, npm i to install all packages in client and server, npm run seed in server, npm start in server and client, application will run
-on localhost:300 and api server on localhost:3001
+on localhost:3000
 
 ## Usage
 *Instructions for use:*

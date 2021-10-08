@@ -12,7 +12,7 @@ An eccomerce app refactored to use redux instead of Context API.
 * [License](#license)
 
 ## Live
-tbd
+https://secret-badlands-74865.herokuapp.com/
 
 ## Installation
 

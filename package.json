@@ -17,6 +17,10 @@
     "concurrently": "^5.1.0"
   },
   "dependencies": {
-  
+    "apollo-server-express": "^3.3.0",
+    "bcrypt": "^5.0.1",
+    "graphql": "^15.6.1",
+    "react": "^17.0.2",
+    "react-redux": "^7.2.5"
   }
 }

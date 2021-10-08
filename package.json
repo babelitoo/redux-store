@@ -2,9 +2,6 @@
   "name": "redux-store",
   "version": "1.0.0",
   "description": "",
-  "engines":{
-    "node": "14.18.0"
-  },
   "main": "server/server.js",
   "scripts": {
     "start": "node server/server.js",

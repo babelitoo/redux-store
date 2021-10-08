@@ -1,6 +1,7 @@
 # Redux Store
 
 ## Description
+An eccomerce app refactored to use redux instead of Context API. 
 
 ![Demo Pic](./assets/redux.png)
 ## Table of Contents
@@ -10,8 +11,8 @@
 * [Technologies Used](#tech)
 * [License](#license)
 
-## Live Deployment
-
+## Live
+tbd
 
 ## Installation
 
@@ -24,8 +25,9 @@ on localhost:300 and api server on localhost:3001
 Signup or login on the top. Broswe through products and click on them to open information. Add them to cart with add to cart button, remove from cart with remove button. You can only checkout if youre logged in. Checkout takes you to stripe page to complete payment info.
 
 ![Demo GIF](./assets/redux-store.gif)
-## Tech
 
+## Tech
+React, Redux, Stripe, bcrypt, Mongoose, Express, node.js, Apollo, GraphQL and JSON Web Token
 
 
 ## License
